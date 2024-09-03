@@ -6,6 +6,6 @@ To predict the possibility of Heart Disease, using the UCI Machine Learning Repo
 
 ## Contributions:
 - XGBoost: Aldan Pang Teck Hock
-- Random Forests: Madhu
+- Random Forests: Jambulingam Madhumita
 - Support Vector Machine: Ruth Kang Ming Ying
 - Linear Regression: Ruth Kang Ming Ying
